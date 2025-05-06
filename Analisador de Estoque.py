@@ -6,7 +6,7 @@ def lista_de_produtos(estoque):#função com parametro estoque
    if "Sabonete" in estoque: #condição para saber se tem ou não o item no estoque 
        print("Sabonete"" está presente no estoque. ")
    else: 
-       print(estoque,"não está presente no estoque.")
+       print(" Sabonete não está presente no estoque.")
 
 
    print("Lista em ordem alfabética:")
